@@ -1,0 +1,17 @@
+{
+  "name": "npm-json-exercises",
+  "version": "1.0.0",
+  "description": "(w1d5 exercises)",
+  "main": "index.js",
+  "scripts": {
+    "test": "w1d5"
+  },
+  "keywords": [
+    "exercise1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
